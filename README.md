@@ -50,3 +50,4 @@ Modules Used:
 * Mojolicious::Lite - CPAN module: http://search.cpan.org/perldoc?Mojolicious%3A%3ALite
 * Storable - core module: http://perldoc.perl.org/Storable.html
 
+(I don't have Docker available so that wasn't an option; otherwise, I would have tried it.)
