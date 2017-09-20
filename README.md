@@ -29,13 +29,11 @@ More could be added: as before, not part of the task, so just noted at this poin
 
 The web service is started like this:
 
----------------------------------------------------------------
-$ perl sd_be_kc.pl daemon -l http://*:8080
+`$ perl sd_be_kc.pl daemon -l http://*:8080
 
 [Wed Sep 20 17:10:40 2017] [info] Listening at "http://*:8080"
 
-Server available at http://127.0.0.1:8080
----------------------------------------------------------------
+Server available at http://127.0.0.1:8080`
 
 Some sample runs demonstrating the specified API:
 
